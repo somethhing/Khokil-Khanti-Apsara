@@ -1,0 +1,7 @@
+body {
+  background: url('images/roses.jpg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  color: #333;
+}
